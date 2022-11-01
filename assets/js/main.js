@@ -8,7 +8,7 @@ for (i = 0; i < myNodelist.length; i++) {
     myNodelist[i].appendChild(span);
 }
 
-
+// dfbgdfb
 var close = document.getElementsByClassName("close");
 var i;
 for (i = 0; i < close.length; i++) {
